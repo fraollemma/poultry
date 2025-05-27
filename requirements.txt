@@ -33,4 +33,4 @@ gunicorn==21.2.0
 python-dotenv==1.0.0
 
 # Internationalization
-django-i18n-field==2.0.0
+django-i18n-field==1.9.0
